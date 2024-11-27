@@ -31,16 +31,19 @@ You can check if Node.js is installed by running the following command in your t
 
 ```bash
 node -v
+    ```
 
 ### 2. Clone the Repository 
 
 Clone this repository to your local machine: 
 ```bash
  git clone https://github.com/Piotray/Duplicate_checker.git
+    ```
 
 ### 3. Navigate to project 
 ```bash
 cd Duplicate_checker
+    ```
 
 ## 4. Running the Program
 
@@ -51,6 +54,7 @@ After installation, you can run the program by providing the directory path you 
 
    ```javascript
    const directoryToSearch = 'C:/Users/YourUser/Documents/FolderX';
+    ```
 
 ### Example Output
  If duplicates are found, the output will look like this:
@@ -61,7 +65,8 @@ Duplicate: C:/Users/YourUser/Documents/FolderX/duplicate1.txt
 --- 
 Original: C:/Users/YourUser/Documents/FolderX/file2.txt
 Duplicate: C:/Users/YourUser/Documents/FolderX/duplicate2.txt 
---- 
+---
+    ```
 
 ## Acknowledgements
 
