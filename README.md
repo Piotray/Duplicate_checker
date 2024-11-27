@@ -26,24 +26,18 @@ If you don't have Node.js installed, follow these steps:
 
 - Go to the [official Node.js website](https://nodejs.org/en/).
 - Download and install the recommended version for your operating system.
-
-You can check if Node.js is installed by running the following command in your terminal:
-
-```bash
-node -v
-    ```
-
+- 
 ### 2. Clone the Repository 
 
 Clone this repository to your local machine: 
-```bash
+```sh
  git clone https://github.com/Piotray/Duplicate_checker.git
-    ```
+```
 
 ### 3. Navigate to project 
-```bash
+```sh
 cd Duplicate_checker
-    ```
+```
 
 ## 4. Running the Program
 
@@ -54,11 +48,11 @@ After installation, you can run the program by providing the directory path you 
 
    ```javascript
    const directoryToSearch = 'C:/Users/YourUser/Documents/FolderX';
-    ```
+   ```
 
 ### Example Output
  If duplicates are found, the output will look like this:
- ```yaml
+ ```sh
  Duplicate files found: 
 Original: C:/Users/YourUser/Documents/FolderX/file1.txt 
 Duplicate: C:/Users/YourUser/Documents/FolderX/duplicate1.txt 
@@ -66,7 +60,7 @@ Duplicate: C:/Users/YourUser/Documents/FolderX/duplicate1.txt
 Original: C:/Users/YourUser/Documents/FolderX/file2.txt
 Duplicate: C:/Users/YourUser/Documents/FolderX/duplicate2.txt 
 ---
-    ```
+```
 
 ## Acknowledgements
 
