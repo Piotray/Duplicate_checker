@@ -31,6 +31,7 @@ You can check if Node.js is installed by running the following command in your t
 
 ```bash
 node -v
+
 ### 2. Clone the Repository 
 
 Clone this repository to your local machine: 
