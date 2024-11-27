@@ -49,7 +49,10 @@ After installation, you can run the program by providing the directory path you 
    ```javascript
    const directoryToSearch = 'C:/Users/YourUser/Documents/FolderX';
    ```
-
+Then run the script using Node.js: 
+```sh
+ node index.js
+```
 ### Example Output
  If duplicates are found, the output will look like this:
  ```sh
