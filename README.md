@@ -15,7 +15,7 @@ SHA-256 (Secure Hash Algorithm) is a cryptographic hash function that produces a
 
 ### **Efficiency of Hashing for File Comparison**
 
-The use of hashing significantly speeds up the process of comparing files. Rather than comparing file contents byte by byte (which can be slow for large files), the application computes a SHA-256 hash for each file. These hashes act as a "fingerprint" of the file, allowing for a quick comparison of file contents. Here's why this approach is more efficient:
+The use of hashing significantly speeds up the process of comparing files. Rather than comparing file contents byte by byte (which can be slow for large files), the application computes a SHA-256 hash for each file. These hashes act as a "fingerprint" of the file, allowing for a quick comparison of file contents.
 
 
 ## Installation and Usage
